@@ -2,3 +2,6 @@ bokeh==2.3.2
 panel==0.11.3
 pandas
 numpy
+jupyter
+notebook
+nbconvert
