@@ -1,6 +1,6 @@
 <H3> Tracking Data and Event Tagger </H3>
 
-[![Heroku](https://heroku-badge.herokuapp.com/?app=tracking-tagger)]
+![Heroku](http://heroku-badge.herokuapp.com/?app=tracking-tagger&style=flat&svg=1)
 
 This is a small Panel App that allows you to make your own tracking data and download it.  
 
