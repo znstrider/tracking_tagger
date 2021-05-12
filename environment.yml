@@ -1,0 +1,12 @@
+channels:
+- pyviz
+
+packages:
+- pandas
+- numpy
+- jupyter
+- notebook
+- nbconvert
+- jupyter-panel-proxy
+- bokeh==2.3.2
+- panel==0.11.3
