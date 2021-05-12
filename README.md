@@ -1,5 +1,7 @@
 <H3> Tracking Data and Event Tagger </H3>
 
+[![Heroku](https://heroku-badge.herokuapp.com/?app=tracking-tagger)]
+
 This is a small Panel App that allows you to make your own tracking data and download it.  
 
 <img src="static/tracking_tagger.gif" width="640" height="480" />
@@ -13,3 +15,4 @@ You can clone this repository, install the requirements and run it with
 panel serve --show tracking_tagger.ipynb
 ```
 
+You can also access the app on [Heroku](https://tracking-tagger.herokuapp.com/)
