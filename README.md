@@ -10,6 +10,6 @@ Remove a playermarker by clicking and then pressing the Backspace key.
 
 You can clone this repository, install the requirements and run it with  
 ```
-panel serve --show tracking.tagger.ipynb
+panel serve --show tracking_tagger.ipynb
 ```
 
